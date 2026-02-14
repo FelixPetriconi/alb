@@ -1,4 +1,4 @@
-#include <myproject/sample_library.hpp>
+#include <alb/sample_library.hpp>
 
 int factorial(int input) noexcept
 {
